@@ -1,5 +1,4 @@
 # 🍎 macOS 환경 VS Code & GitHub 연동 가이드
-
 오늘 처음으로 맥북에서 VS Code와 GitHub을 성공적으로 연동한 과정을 기록합니다.
 
 ## 1. 초기 세팅 (Configuration)
@@ -23,6 +22,7 @@
 3. **푸시(Push)**: 
    - `Sync Changes` 버튼 클릭하여 GitHub 서버로 전송.
    - 온라인(GitHub.com)에서 새로고침하여 반영 여부 확인.
+   - git push origin main 코드로 푸시하기 이용
 
 ## 4. 맥북 꿀팁: .DS_Store 관리
 맥북 시스템 파일인 `.DS_Store`가 깃에 올라가지 않게 하려면:
