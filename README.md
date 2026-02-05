@@ -21,16 +21,16 @@
 
 각 섹터는 독립적인 프로젝트 폴더로 구성되어 있으며, 상세 분석 내용은 폴더 내 `README.md`에서 확인 가능합니다.
 
-| 단계 | 섹터 (Sector) | 핵심 주제 및 모델 | 상태 | 링크 |
+| 단계 | 섹터 (Sector) | 핵심 주제 및 모델 | 상태 |
 | --- | --- | --- | --- | --- |
-| **01** | **Linear Regression** | 단순/다중 회귀, 선형성 가정 검정 | 🔄 진행 중 | [바로가기](https://www.google.com/search?q=./01_Linear_Regression) |
-| **02** | **Regularized Regression** | Lasso, Ridge, ElasticNet (과적합 제어) | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./02_Regularized_Regression) |
-| **03** | **Logistic Regression** | 이진/다중 분류, Sigmoid 함수, Odds Ratio | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./03_Logistic_Regression) |
-| **04** | **Decision Tree** | Gini Impurity, Entropy, 시각화 및 해석 | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./04_Decision_Tree) |
-| **05** | **Random Forest** | Bagging 앙상블, Feature Importance 분석 | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./05_Random_Forest) |
-| **06** | **Boosting Models** | XGBoost, LightGBM, CatBoost 최적화 | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./06_Boosting_Models) |
-| **07** | **SVM & KNN** | Kernel Trick, 거리 기반 모델링 | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./07_SVM_%26_KNN) |
-| **08** | **Clustering & PCA** | K-Means, DBSCAN, 차원 축소 및 시각화 | ⬜ 대기 | [바로가기](https://www.google.com/search?q=./08_Clustering_%26_PCA) |
+| **01** | **Linear Regression** | 단순/다중 회귀, 선형성 가정 검정 | 🔄 진행 중 |
+| **02** | **Regularized Regression** | Lasso, Ridge, ElasticNet (과적합 제어) | ⬜ 대기 |
+| **03** | **Logistic Regression** | 이진/다중 분류, Sigmoid 함수, Odds Ratio | ⬜ 대기 |
+| **04** | **Decision Tree** | Gini Impurity, Entropy, 시각화 및 해석 | ⬜ 대기 | 
+| **05** | **Random Forest** | Bagging 앙상블, Feature Importance 분석 | ⬜ 대기 |
+| **06** | **Boosting Models** | XGBoost, LightGBM, CatBoost 최적화 | ⬜ 대기 | 
+| **07** | **SVM & KNN** | Kernel Trick, 거리 기반 모델링 | ⬜ 대기 |
+| **08** | **Clustering & PCA** | K-Means, DBSCAN, 차원 축소 및 시각화 | ⬜ 대기 |
 
 ---
 
